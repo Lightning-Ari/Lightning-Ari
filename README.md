@@ -76,7 +76,7 @@ Tools: Git, GitHub, VS Code, Linux (WSL)
 ## 🔗 Connect With Me
 
 - 📧 Email: arindamdas1116@gmail.com 
-- 🌐 Portfolio: Coming Soon  
+- 🌐 Portfolio: [(Arindam DAs)](https://lightning-ari.github.io/)
 - 💼 LinkedIn: [(Arindam Das)](https://www.linkedin.com/in/arindamdas1116/)
 - 🤖 Boot.Dev : [(Lightning-Ari)](https://www.boot.dev/u/lightingari)
 
