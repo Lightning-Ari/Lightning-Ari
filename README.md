@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 
 # Hey, I'm Ari 👋
 
-🎓 BCA Student at IGNOU  
+<!-->🎓 BCA Student at IGNOU  
 💻 Aspiring Backend Developer  
 🚀 Learning in public & building real-world projects  
 
