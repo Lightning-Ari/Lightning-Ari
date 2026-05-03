@@ -1,9 +1,6 @@
+<!--
 ## Hi there 👋
 
-
-  
-
-<!--
 **Lighting-Ari/Lighting-Ari** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -52,7 +49,7 @@ I’m learning step-by-step and documenting everything as I go.
 ## 🛠️ Tech Stack
 
 ```txt
-Languages: C, Java, Python, JavaScript  
+Languages: C, Java, Python, Go  
 Frontend: HTML, CSS  
 Tools: Git, GitHub, VS Code, Linux (WSL)
 ```
@@ -64,14 +61,14 @@ Tools: Git, GitHub, VS Code, Linux (WSL)
 - 📝 Text Editor  
 - 🎮 2D Game  
 - ⚙️ Mini Compiler  
-- 💻 Mini Operating System  
-- 📊 Spreadsheet App  
+<!-- - 💻 Mini Operating System 
+- 📊 Spreadsheet App  -->
 
 ---
 
 ## 📈 GitHub Stats
 
-![Ari's GitHub stats](https://github-readme-stats.vercel.app/api?username=Lighting-Ari&show_icons=true&theme=tokyonight)
+![Ari's GitHub stats](https://github-readme-stats.vercel.app/api?username=Lightning-Ari&show_icons=true&theme=tokyonight)
 
 ---
 
