@@ -69,10 +69,7 @@ Tools: Git, GitHub, VS Code, Linux (WSL)
 
 ## 📈 GitHub Stats
 
-![Ari's GitHub stats](https://github-readme-stats.vercel.app/api?username=Lightning-Ari&show_icons=true&theme=tokyonight)
 ![GitHub Streak](https://streak-stats.demolab.com?user=Lightning-Ari&theme=tokyonight&hide_border=true)
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Lightning-Ari&show_icons=true&theme=tokyonight)
-
 
 ---
 
