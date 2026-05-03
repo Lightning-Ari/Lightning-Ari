@@ -39,7 +39,7 @@ I’m learning step-by-step and documenting everything as I go.
 - 🎯 Goal: Become job-ready in backend development  
 - 📚 Platform: Boot.dev
 
-  ![Banner]([your-image-link](https://www.boot.dev/u/lightingari))
+  ![Banner]([https://www.boot.dev/u/lightingari])
 
 ---
 
