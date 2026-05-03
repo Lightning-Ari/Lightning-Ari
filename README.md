@@ -58,6 +58,7 @@ Tools: Git, GitHub, VS Code, Linux (WSL)
 
 ## 🚧 Projects (In Progress)
 
+- 🛠️ CLI Task Manager — built using Python (WIP)
 - 📝 Text Editor  
 - 🎮 2D Game  
 - ⚙️ Mini Compiler  
