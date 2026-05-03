@@ -39,8 +39,6 @@ I’m learning step-by-step and documenting everything as I go.
 - 🎯 Goal: Become job-ready in backend development  
 - 📚 Platform: Boot.dev
 
-  ![Banner]([https://www.boot.dev/u/lightingari])
-
 ---
 
 ## 📊 Learning Progress
@@ -82,7 +80,7 @@ Tools: Git, GitHub, VS Code, Linux (WSL)
 - 📧 Email: arindamdas1116@gmail.com 
 - 🌐 Portfolio: Coming Soon  
 - 💼 LinkedIn: [(Arindam Das)](https://www.linkedin.com/in/arindamdas1116/)
-- 🤖 Boot.Dev : https://www.boot.dev/u/lightingari
+- 🤖 Boot.Dev : [(Lightning-Ari)](https://www.boot.dev/u/lightingari)
 
 ---
 
